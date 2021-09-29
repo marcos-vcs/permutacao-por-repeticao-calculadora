@@ -2,7 +2,6 @@ let reportedValue = document.getElementById('reportedValue')
 let divResult = document.getElementById('divResult')
 let textValues = document.getElementById('textValues')
 let resultNumeric = document.getElementById('resultNumeric')
-let result = document.getElementById('divResult')
 let alert = document.getElementById('alert')
 
 setHidden(divResult, alert)
