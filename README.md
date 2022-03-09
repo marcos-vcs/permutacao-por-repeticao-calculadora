@@ -1,7 +1,7 @@
 
 ## Example of a repeat permutation algorithm
 
-#### To access the deployment **[`CLICK HERE`](https://marcosviniciocardososousa.github.io/permutacao-por-repeticao-calculadora/calculadora.html)**
+#### To access the deployment **[`CLICK HERE`](https://marcos-vcs.github.io/permutacao-por-repeticao-calculadora/calculadora.html)**
 
 ---
 ### Technologies used in development
